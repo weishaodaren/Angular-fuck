@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-weishaodaren-app"
+    }
+  },
+  "defaultProject": "ng-weishaodaren-app",
+  "cli": {
+    "analytics": false
+  }
 }
